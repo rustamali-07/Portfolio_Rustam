@@ -1,4 +1,4 @@
-# LIVE LINK : https://potfolio-rustam.vercel.app/
+# LIVE LINK : https://portfolio-rustam.vercel.app/
 # My Personal Portfolio
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and a little bit about myself. It serves as a central hub for all my work and a way for potential employers or collaborators to get to know me better.
 
